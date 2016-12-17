@@ -1,7 +1,7 @@
 ---
 layout: page
 title: History
-permalink: /history/
+permalink: /history
 ---
 
 It's been said family businesses are the backbone of America.

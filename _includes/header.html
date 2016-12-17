@@ -13,11 +13,10 @@
   <div class="wrapper text-center">
     <nav class="site-nav">
       <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-          {% endif %}
-        {% endfor %}
+        <a class="page-link" href="/"        >About</a>
+        <a class="page-link" href="/history" >History</a>
+        <a class="page-link" href="/products">Products</a>
+        <a class="page-link" href="/outreach">Outreach</a>
       </div>
     </nav>
   </div>
