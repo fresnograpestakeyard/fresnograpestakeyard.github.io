@@ -15,7 +15,8 @@ dl, dd, ol, ul, figure {
  */
 body {
   color:     $text-color;
-  font-size: 18px;
+  // font-size: 18px;
+  font-family: 'verdana', sans-serif;
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
@@ -157,7 +158,8 @@ pre {
 }
 
 .title-margin {
-  margin: 1em auto;
+  margin: 2em auto;
+  line-height: 2em;
 }
 
 .wrapper {
