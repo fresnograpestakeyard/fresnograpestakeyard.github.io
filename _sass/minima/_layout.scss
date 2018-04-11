@@ -1,7 +1,16 @@
+%mild-shadow {
+  box-shadow: 0px 3px 5px -3px rgba(0, 0, 0, 0.75);
+}
+
 .fgsy-card {
+  @extend %mild-shadow;
   background-color: #fff;
   padding: 1em;
-  box-shadow: 0px 3px 5px -3px rgba(0, 0, 0, 0.75);
+  margin-bottom: 0.5em;
+}
+
+.ffa-advert {
+  @extend %mild-shadow;
   margin-bottom: 0.5em;
 }
 
@@ -18,8 +27,8 @@
 }
 
 .map {
+  @extend %mild-shadow;
   background-color: #fff;
-  box-shadow: 0px 3px 5px -3px rgba(0, 0, 0, 0.75);
   margin-bottom: 0.5em;
 }
 
@@ -232,7 +241,7 @@
   }
 
   h3 {
-    font-size: 26px;
+    font-size: 22px;
 
     @include media-query($on-laptop) {
       font-size: 22px;
