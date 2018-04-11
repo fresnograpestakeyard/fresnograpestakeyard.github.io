@@ -43,6 +43,41 @@
   text-align: center;
 }
 
+.product-menu {
+  font-size: 15px;
+  line-height: 120%;
+  background-color: #138A37;
+  padding: 0.5em 0;
+  width: 228px;
+  margin: 0 auto;
+  font-family: sans-serif;
+  float: left;
+}
+
+.leftprods {
+  text-align: left;
+  background-color: #fff;
+  padding: 1em;
+  float: left;
+  width: 680px;
+  min-height: 454px;
+}
+
+.product-menu ul {
+  margin: 0;
+  padding: 0;
+}
+
+.product-menu ul li {
+  list-style: none;
+  padding: 0.33em;
+  margin: 0;
+}
+
+.product-menu ul li a {
+  color: #000;
+}
+
 .title-text {
   margin-bottom: -0.5em;
 }
@@ -231,6 +266,8 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
+  font-family: 'georgia', sans-serif;
+  line-height: 160%;
 
   h2 {
     font-size: 32px;
