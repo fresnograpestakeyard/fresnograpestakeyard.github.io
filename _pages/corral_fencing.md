@@ -2,6 +2,7 @@
 layout: products
 title: Corral Fencing
 permalink: /products/corral-fencing
+group: products
 ---
 
 <ul class='products'>

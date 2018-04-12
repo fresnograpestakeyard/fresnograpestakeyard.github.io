@@ -2,6 +2,7 @@
 layout: products
 title: Wood Fencing
 permalink: /products/wood-fencing
+group: products
 custom_js:
   - js/pages/wood_fencing.js
 ---

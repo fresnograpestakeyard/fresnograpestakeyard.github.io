@@ -2,6 +2,7 @@
 layout: products
 title: Potting Mixes
 permalink: /products/potting-mixes
+group: products
 ---
 
 <p>

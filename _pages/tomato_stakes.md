@@ -2,6 +2,7 @@
 layout: products
 title: Tomato Stakes
 permalink: /products/tomato-stakes
+group: products
 custom_js:
   - js/pages/tomato_stakes.js
 ---

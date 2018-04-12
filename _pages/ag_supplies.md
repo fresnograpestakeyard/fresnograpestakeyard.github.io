@@ -2,6 +2,7 @@
 layout: products
 title: Ag Supplies
 permalink: /products/ag-supplies
+group: products
 custom_js:
   - js/pages/ag_supplies.js
 ---

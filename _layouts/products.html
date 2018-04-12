@@ -4,7 +4,18 @@ layout: page
 
 <div class="text-center product-menu">
     <ul>
-        <li id="category-15">
+
+{% for node in site.pages %}
+    {% if node.group == 'products' %}
+        {% if page.url == node.url %}
+            <li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
+        {% else %}
+            <li><a href="{{node.url}}">{{node.title}}</a></li>
+        {% endif %}
+    {% endif %}
+{% endfor %}
+
+        <!-- <li id="category-15">
             <a href="/products/ag-supplies">Ag Supplies</a>
         </li>
         <li id="category-12">
@@ -54,7 +65,7 @@ layout: page
         <li id="category-1">
             <a href="/products/wood-fencing">Wood Fencing</a>
         </li>
-        <li id="category-0"><a href="/products/misc-items">Misc. Items</a></li>
+        <li id="category-0"><a href="/products/misc-items">Misc. Items</a></li> -->
     </ul>
 </div>
 

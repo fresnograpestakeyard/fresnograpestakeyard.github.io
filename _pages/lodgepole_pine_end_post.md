@@ -2,6 +2,7 @@
 layout: products
 title: Lodgepole Pine/End Post
 permalink: /products/lodgepole-pine-end-post
+group: products
 ---
 
 <p><a href='/images/2007fgsylodgepolls.jpg' rel='lightbox'>

@@ -2,6 +2,7 @@
 layout: products
 title: Grape Stakes - Farming
 permalink: /products/grape-stakes-farming
+group: products
 ---
 
 <p>Pressure Treated Fir</p>

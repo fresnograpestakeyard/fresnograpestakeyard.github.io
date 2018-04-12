@@ -2,6 +2,7 @@
 layout: products
 title: T-Post
 permalink: /products/t-post
+group: products
 custom_js:
   - js/pages/t_post.js
 ---

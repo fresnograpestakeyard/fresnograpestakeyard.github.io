@@ -2,6 +2,7 @@
 layout: products
 title: Grape Stakes - Fencing
 permalink: /products/grape-stakes-fencing
+group: products
 ---
 
 <p>

@@ -2,6 +2,7 @@
 layout: products
 title: Ranch Gates
 permalink: /products/ranch-gates
+group: products
 custom_js:
   - js/pages/ranch_gates.js
 ---

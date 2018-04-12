@@ -2,6 +2,7 @@
 layout: products
 title: Vineyard Wire (100LB Rolls)
 permalink: /products/vineyard-wire
+group: products
 custom_js:
   - js/pages/vineyard_wire.js
 ---

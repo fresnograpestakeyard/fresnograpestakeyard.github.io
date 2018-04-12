@@ -2,6 +2,7 @@
 layout: products
 title: Split Rail Cedar Fencing
 permalink: /products/split-rail-cedar-fencing
+group: products
 ---
 
 <p>

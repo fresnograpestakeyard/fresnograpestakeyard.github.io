@@ -2,6 +2,7 @@
 layout: products
 title: Plastic Sheeting
 permalink: /products/plastic-sheeting
+group: products
 ---
 
 Construction Plastic (w/out UVI)

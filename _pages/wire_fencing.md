@@ -2,6 +2,7 @@
 layout: products
 title: Wire Fencing
 permalink: /products/wire-fencing
+group: products
 ---
 
 <p><a href='/images/wirefencing.jpg' rel='lightbox'>
