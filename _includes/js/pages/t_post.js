@@ -1,5 +1,4 @@
 $(document).ready(function() {
-    $('#category-9').css('background-color', '#fff');
     $('.close').click(function() {
         $(this).parent().hide();
     });
