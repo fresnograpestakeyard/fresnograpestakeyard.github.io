@@ -11,7 +11,7 @@ group: products
 
 Bamboo stakes - special orders only
 
-3/8\" Lath
+3/8" Lath
 
 Plywood
 

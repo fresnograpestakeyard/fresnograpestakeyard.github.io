@@ -61,7 +61,7 @@ custom_js:
             <div class='float-right'>
                 <a href='/images/pullr-1t.jpg' rel='lightbox'>
                     <img src='/images/pullr-1t.jpg' class='w200'
-                        alt=\"1 Ton Pull'R\" />
+                        alt="1 Ton Pull'R" />
                 </a>
             </div>
             <br class='clear' />
@@ -78,7 +78,7 @@ custom_js:
             <div class='float-right'>
                 <a href='/images/pullr-2t.jpg' rel='lightbox'>
                     <img src='/images/pullr-2t.jpg' class='w200'
-                        alt=\"2 Ton Pull'R\" />
+                        alt="2 Ton Pull'R" />
                 </a>
             </div>
             <br class='clear' />
@@ -90,7 +90,7 @@ custom_js:
                 <li>
                     High strength, electro-plated steel parts
                 </li>
-                <li>\"Notch-at-a-time\" letdown</li>
+                <li>"Notch-at-a-time" letdown</li>
                 <li>Drop forged steel slip hooks</li>
                 <li>Non-slip plastic grip</li>
                 <li>OSHA recommended safety latches</li>
