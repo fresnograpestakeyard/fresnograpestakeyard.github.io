@@ -2,7 +2,7 @@
 layout: products
 title: Vineyard Wire (100LB Rolls)
 permalink: /products/vineyard-wire
-jsarr:
+custom_js:
   - js/pages/vineyard_wire.js
 ---
 
@@ -150,4 +150,3 @@ jsarr:
     <li>Vineyard Staples</li>
     <li>Barbed Staples</li>
 </ul>
-

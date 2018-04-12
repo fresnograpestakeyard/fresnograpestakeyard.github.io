@@ -1,3 +1,7 @@
+li {
+  list-style: none;
+}
+
 %mild-shadow {
   box-shadow: 0px 3px 5px -3px rgba(0, 0, 0, 0.75);
 }
@@ -12,6 +16,18 @@
 .ffa-advert {
   @extend %mild-shadow;
   margin-bottom: 0.5em;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.w200 {
+  width: 200px;
+}
+
+.small {
+  width: 420px;
 }
 
 .margin-bottom {
@@ -32,11 +48,54 @@
   margin-bottom: 0.5em;
 }
 
+.clickable {
+  cursor: pointer;
+  color: #4676A3;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.close {
+  text-align: right;
+  height: 1em;
+  padding: 0;
+  margin: -0.5em 0 0.5em;
+  font-variant: small-caps;
+  color: #999;
+}
+
+.onclick-box {
+  padding: 0.5em;
+  margin-left: 1.5em;
+  border-radius: 0.25em;
+  border: 1px solid #ccc;
+}
+
+.onclick-box ul {
+  margin: 0;
+  padding: 0.33em;
+}
+
 .site-header {
   min-height: 56px;
 
   // Positioning context for the mobile navigation icon
   position: relative;
+}
+
+ul.products {
+  margin: -10px 0;
+}
+
+ul.products > li {
+  margin: 0.33em;
+}
+
+ul.products > li::before {
+  padding-left: 1em;
+  content: "\00BB \0020";
 }
 
 .text-center {
@@ -54,6 +113,14 @@
   float: left;
 }
 
+.float-right {
+  float: right;
+}
+
+.float-left {
+  float: left;
+}
+
 .leftprods {
   text-align: left;
   background-color: #fff;
@@ -63,13 +130,20 @@
   min-height: 454px;
 }
 
+.clear {
+  clear: both;
+}
+
+.leftprods > p {
+  margin: 1em 0;
+}
+
 .product-menu ul {
   margin: 0;
   padding: 0;
 }
 
 .product-menu ul li {
-  list-style: none;
   padding: 0.33em;
   margin: 0;
 }

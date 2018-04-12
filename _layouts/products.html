@@ -5,19 +5,7 @@ layout: page
     <script type="text/javascript">
         $(document).ready(function(){
             var id = 0;
-            }else if(id==9){
-                $('#tpost-puller').hide();
-                $('#show-tpost-puller').click(function(){;
-                    $('#tpost-puller').slideDown();
-                });
-            } else if (id == 17 || id == 1) {
-                if (id == 1) {
-                    $('#postmaster-steel-posts').hide();
-                }
-                $('#show-postmaster-steel-posts').click(function(){;
-                    $('#postmaster-steel-posts').slideDown();
-                });
-            }else if(id==6){
+            if(id==6){
                 $('#stake-puller').hide();
                 $('#show-stake-puller').click(function(){;
                     $('#stake-puller').slideDown();
@@ -71,25 +59,32 @@ layout: page
 
 <div class="text-center product-menu">
     <ul>
-        <li id="category-15"><a href="/products/ag-supplies">Ag Supplies</a></li>
+        <li id="category-15">
+            <a href="/products/ag-supplies">Ag Supplies</a>
+        </li>
         <li id="category-12"><a href="?id=12">Corral Fencing</a></li>
-        <li id="category-5" ><a href="?id=5" >Grape Stakes - Farming</a></li>
-        <li id="category-4" ><a href="?id=4" >Grape Stakes - Fencing</a></li>
+        <li id="category-5"><a href="?id=5">Grape Stakes - Farming</a></li>
+        <li id="category-4"><a href="?id=4">Grape Stakes - Fencing</a></li>
         <li id="category-10"><a href="?id=10">Lodgepole Pine/End Post</a></li>
         <li id="category-16"><a href="?id=16">Plastic Sheeting</a></li>
-        <li id="category-17"><a href="?id=17">PostMaster Steel Posts</a></li>
+        <li id="category-17">
+            <a href="/products/postmaster-steel-posts">PostMaster
+                Steel Posts</a>
+        </li>
         <li id="category-14"><a href="?id=14">Potting Mixes</a></li>
         <li id="category-13"><a href="?id=13">Ranch Gates</a></li>
-        <li id="category-3" ><a href="?id=3" >Split Rail Cedar Fencing</a></li>
-        <li id="category-9" ><a href="?id=9" >T-Post</a></li>
-        <li id="category-6" ><a href="?id=6" >Tomato Stakes</a></li>
-        <li id="category-7" ><a href="?id=7" >Tree Props/Tree Stakes</a></li>
-        <li id="category-8" >
-            <a href="/products/vineyard-wire" >Vineyard Wire (100LB Rolls)</a>
+        <li id="category-3"><a href="?id=3">Split Rail Cedar Fencing</a></li>
+        <li id="category-9"><a href="/products/t-post">T-Post</a></li>
+        <li id="category-6"><a href="?id=6">Tomato Stakes</a></li>
+        <li id="category-7"><a href="?id=7">Tree Props/Tree Stakes</a></li>
+        <li id="category-8">
+            <a href="/products/vineyard-wire">Vineyard Wire (100LB Rolls)</a>
         </li>
-        <li id="category-2" ><a href="?id=2" >Wire Fencing</a></li>
-        <li id="category-1" ><a href="?id=1" >Wood Fencing</a></li>
-        <li id="category-0" ><a href="/products/misc-items" >Misc. Items</a></li>
+        <li id="category-2"><a href="?id=2">Wire Fencing</a></li>
+        <li id="category-1">
+            <a href="/products/wood-fencing">Wood Fencing</a>
+        </li>
+        <li id="category-0"><a href="/products/misc-items">Misc. Items</a></li>
     </ul>
 </div>
 
@@ -99,7 +94,7 @@ layout: page
 
 <br class="clear" />
 
-{% for js in page.jsarr %}
+{% for js in page.custom_js %}
 <script type="text/javascript">
    {% include {{ js }} %}
 </script>
