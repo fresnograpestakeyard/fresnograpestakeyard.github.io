@@ -5,4 +5,3 @@
 * 404 - https://help.github.com/articles/creating-a-custom-404-page-for-your-github-pages-site/
 * analytics
 * collect images/assets and consolidate to one directory
-* proper jquery assets per-page - https://mchirico.github.io/javascript/2016/12/22/JavascriptNetwork.html
