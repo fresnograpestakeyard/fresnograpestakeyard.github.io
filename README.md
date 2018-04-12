@@ -6,3 +6,4 @@
 * analytics
 * collect images/assets and consolidate to one directory
 * proper jquery assets per-page - https://mchirico.github.io/javascript/2016/12/22/JavascriptNetwork.html
+* products menu - highlight white also for pages without custom js
