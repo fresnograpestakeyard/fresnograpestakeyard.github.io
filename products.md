@@ -2,6 +2,11 @@
 layout: products
 title: Products
 permalink: /products/
+redirect_from:
+  - /products.php/
+  - /products.php?id=18/
+  - /products.php?id=19/
+  - /products.php?id=20/
 ---
 
 <div class="text-center">

@@ -3,6 +3,7 @@ layout: products
 title: Split Rail Cedar Fencing
 permalink: /products/split-rail-cedar-fencing
 group: products
+redirect_from: /products.php?id=3/
 ---
 
 <p>

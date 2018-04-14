@@ -5,6 +5,7 @@ permalink: /products/ag-supplies
 group: products
 custom_js:
   - js/pages/ag_supplies.js
+redirect_from: /products.php?id=15/
 ---
 
 <p>Cucumber Netting</p>

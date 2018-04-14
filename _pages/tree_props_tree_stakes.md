@@ -3,6 +3,7 @@ layout: products
 title: Tree Props/Tree Stakes
 permalink: /products/tree-props-tree-stakes
 group: products
+redirect_from: /products.php?id=7/
 ---
 
 <p>1x2 Untreated Fir</p>

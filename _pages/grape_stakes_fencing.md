@@ -3,6 +3,7 @@ layout: products
 title: Grape Stakes - Fencing
 permalink: /products/grape-stakes-fencing
 group: products
+redirect_from: /products.php?id=4/
 ---
 
 <p>

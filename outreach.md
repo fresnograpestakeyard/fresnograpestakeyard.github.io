@@ -2,6 +2,7 @@
 layout: outreach
 title: Outreach
 permalink: /outreach
+redirect_from: /outreach.php/
 ---
 
 Fresno Grape Stake Yard is pleased to announce their involvement in "Home Grown", an initiative developed by Red Brand fence that financially supports local FFA chapters.

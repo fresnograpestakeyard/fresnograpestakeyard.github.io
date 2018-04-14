@@ -3,6 +3,7 @@ layout: products
 title: Misc. Items
 permalink: /products/misc-items
 group: products
+redirect_from: /products.php?id=0/
 ---
 
 1x1 nursery stakes

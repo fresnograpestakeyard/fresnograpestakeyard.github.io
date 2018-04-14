@@ -5,6 +5,7 @@ permalink: /products/ranch-gates
 group: products
 custom_js:
   - js/pages/ranch_gates.js
+redirect_from: /products.php?id=13/
 ---
 
 <p>

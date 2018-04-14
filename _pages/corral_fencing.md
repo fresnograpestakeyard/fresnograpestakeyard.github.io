@@ -3,6 +3,7 @@ layout: products
 title: Corral Fencing
 permalink: /products/corral-fencing
 group: products
+redirect_from: /products.php?id=12/
 ---
 
 <ul class='products'>

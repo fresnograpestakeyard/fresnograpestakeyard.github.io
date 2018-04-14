@@ -2,6 +2,7 @@
 layout: page
 title: History
 permalink: /history
+redirect_from: /history.php/
 ---
 
 <div class="text-center margin-bottom">
