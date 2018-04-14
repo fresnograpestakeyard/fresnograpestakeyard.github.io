@@ -2,5 +2,4 @@
   outreach.php
     - See `permalink` https://jekyllrb.com/docs/frontmatter/
     - See `redirect_from` https://help.github.com/articles/redirects-on-github-pages/
-* analytics
 * collect images/assets and consolidate to one directory
