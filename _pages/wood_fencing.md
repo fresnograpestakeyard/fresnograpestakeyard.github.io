@@ -60,7 +60,7 @@ redirect_from: /products.php?id=1/
             </ul>
             <ul>
                 <li>
-                    <a href='postmaster-instructions.pdf'>
+                    <a href='/assets/postmaster-instructions.pdf'>
                         Installation Instructions
                     </a>
                 </li>
