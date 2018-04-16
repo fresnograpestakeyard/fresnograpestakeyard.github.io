@@ -129,6 +129,21 @@ ul.products > li::before {
   float: left;
 
   @include media-query($on-palm) {
+    &:before {
+      content: "Menu";
+      color: #ececec;
+      font-weight: bold;
+    }
+
+    ul {
+      display: none;
+    }
+
+    &:hover ul {
+      display: block;
+    }
+
+    border-bottom: 1px solid rgb(15, 107, 45);
     width: 100%;
   }
 }
@@ -168,6 +183,7 @@ ul.products > li::before {
     float: none;
     width: auto;
     display: block;
+    min-height: 200px;
   }
 }
 
