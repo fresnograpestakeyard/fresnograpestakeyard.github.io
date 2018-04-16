@@ -40,6 +40,10 @@ li {
 
 .small {
   width: 420px;
+
+  @include media-query($on-palm) {
+    width: auto;
+  }
 }
 
 .margin-bottom {
@@ -123,10 +127,28 @@ ul.products > li::before {
   margin: 0 auto;
   font-family: sans-serif;
   float: left;
+
+  @include media-query($on-palm) {
+    width: 100%;
+  }
+}
+
+%float-right {
+  float: right;
 }
 
 .float-right {
-  float: right;
+  @extend %float-right;
+}
+
+.click-box-thumb {
+  @extend %float-right;
+
+  @include media-query($on-palm) {
+    clear: both;
+    float: none;
+    text-align: center;
+  }
 }
 
 .float-left {
@@ -140,6 +162,13 @@ ul.products > li::before {
   float: left;
   width: 680px;
   min-height: 454px;
+
+  @include media-query($on-palm) {
+    clear: both;
+    float: none;
+    width: auto;
+    display: block;
+  }
 }
 
 .clear {
@@ -191,36 +220,33 @@ ul.products > li::before {
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
-      margin-right: 20px;
+      margin-right: 0.5em;
     }
   }
 
-  // @include media-query($on-palm) {
-  //   background-color: $background-color;
-  //   border: 1px solid $grey-color-light;
-  //   border-radius: 5px;
-  //   text-align: right;
+  @include media-query($on-palm) {
+    font-size: 0.8em;
 
-  //   .trigger {
-  //     clear: both;
-  //     display: none;
-  //   }
+    // .trigger {
+      // clear: both;
+      // display: none;
+    // }
 
-  //   &:hover .trigger {
-  //     display: block;
-  //     padding-bottom: 5px;
-  //   }
+    // &:hover .trigger {
+      // display: block;
+      // padding-bottom: 5px;
+    // }
 
-  //   .page-link {
-  //     display: block;
-  //     padding: 5px 10px;
+    // .page-link {
+      // display: block;
+      // padding: 5px 10px;
 
-  //     &:not(:last-child) {
-  //       margin-right: 0;
-  //     }
-  //     margin-left: 20px;
-  //   }
-  // }
+      // &:not(:last-child) {
+      //   margin-right: 0;
+      // }
+      // margin-left: 20px;
+    // }
+  }
 }
 
 
@@ -348,7 +374,6 @@ ul.products > li::before {
 }
 
 .post-content {
-  margin-bottom: $spacing-unit;
   font-family: 'georgia', sans-serif;
   line-height: 160%;
 

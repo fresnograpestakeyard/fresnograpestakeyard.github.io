@@ -59,7 +59,7 @@ redirect_from: /products.php?id=8/
                     <li>Leverage: 15:1</li>
                 </ul>
             </div>
-            <div class='float-right'>
+            <div class='click-box-thumb'>
                 <a href='/images/pullr-1t.jpg' rel='lightbox'>
                     <img src='/images/pullr-1t.jpg' class='w200'
                         alt="1 Ton Pull'R" />
@@ -76,7 +76,7 @@ redirect_from: /products.php?id=8/
                     <li>Leverage: 30:1</li>
                 </ul>
             </div>
-            <div class='float-right'>
+            <div class='click-box-thumb'>
                 <a href='/images/pullr-2t.jpg' rel='lightbox'>
                     <img src='/images/pullr-2t.jpg' class='w200'
                         alt="2 Ton Pull'R" />
@@ -133,7 +133,7 @@ redirect_from: /products.php?id=8/
                     </li>
                 </ul>
             </div>
-            <div class='float-right'>
+            <div class='click-box-thumb'>
                 <a href='/images/wire-grip.jpg' rel='lightbox'>
                     <img src='/images/wire-grip.jpg'
                             alt='Wire Grip'

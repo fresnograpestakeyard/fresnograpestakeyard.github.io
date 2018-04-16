@@ -41,7 +41,7 @@ redirect_from: /products.php?id=17/
             </ul>
         </div>
 
-        <div class='float-right'>
+        <div class='click-box-thumb'>
             <a href='/images/wood-postmaster.jpg'
                     rel='lightbox'>
                 <img src='/images/wood-postmaster.jpg'
@@ -50,7 +50,7 @@ redirect_from: /products.php?id=17/
             </a>
         </div>
 
-        <div class='float-right'>
+        <div class='click-box-thumb'>
             <a href='/images/wood-postmaster0.jpg'
                     rel='lightbox'>
                 <img src='/images/wood-postmaster0.jpg'

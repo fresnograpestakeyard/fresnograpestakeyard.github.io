@@ -27,7 +27,7 @@ redirect_from: /products.php?id=13/
             <li>Hinges: 5/8" x 4 &frac12;" lag screw</li>
         </ul>
     </div>
-    <div class='float-right'>
+    <div class='click-box-thumb'>
         <img src='/images/galvanized-5-panel-gate.jpg'
                 alt='Galvanized 5-panel Gate'
                 class='w100' />
@@ -62,7 +62,7 @@ redirect_from: /products.php?id=13/
             </li>
         </ul>
     </div>
-    <div class='float-right'>
+    <div class='click-box-thumb'>
         <a href='/images/silver-econo-gate-1.jpg'
                 rel='lightbox'>
             <img src='/images/silver-econo-gate-1.jpg'
@@ -102,7 +102,7 @@ redirect_from: /products.php?id=13/
             </li>
         </ul>
     </div>
-    <div class='float-right'>
+    <div class='click-box-thumb'>
         <a href='/images/economy-rancher-gate.jpg'
                 rel='lightbox'>
             <img src='/images/economy-rancher-gate.jpg'
@@ -140,7 +140,7 @@ redirect_from: /products.php?id=13/
             </li>
         </ul>
     </div>
-    <div class='float-right'>
+    <div class='click-box-thumb'>
         <a href='/images/super-rancher-gate.jpg'
                 rel='lightbox'>
             <img src='/images/super-rancher-gate.jpg'
@@ -177,7 +177,7 @@ redirect_from: /products.php?id=13/
             </li>
         </ul>
     </div>
-    <div class='float-right'>
+    <div class='click-box-thumb'>
         <a href='/images/heavy-duty-stock-gate.jpg'
                 rel='lightbox'>
             <img src='/images/heavy-duty-stock-gate.jpg'
@@ -213,7 +213,7 @@ redirect_from: /products.php?id=13/
             </li>
         </ul>
     </div>
-    <div class='float-right'>
+    <div class='click-box-thumb'>
         <a href='/images/heavy-duty-utility-panel.jpg'
                 rel='lightbox'>
             <img src='/images/heavy-duty-utility-panel.jpg'

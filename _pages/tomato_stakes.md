@@ -55,7 +55,7 @@ redirect_from: /products.php?id=6/
                     </li>
                 </ul>
             </div>
-            <div class='float-right'>
+            <div class='click-box-thumb'>
                 <a href='/images/post-puller.jpg'
                         rel='lightbox'>
                     <img src='/images/post-puller.jpg'
