@@ -139,9 +139,9 @@ ul.products > li::before {
       display: none;
     }
 
-    &:hover ul {
-      display: block;
-    }
+    // &:hover ul {
+    //   display: block;
+    // }
 
     border-bottom: 1px solid rgb(15, 107, 45);
     width: 100%;
