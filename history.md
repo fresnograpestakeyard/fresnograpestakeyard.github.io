@@ -5,6 +5,8 @@ permalink: /history
 redirect_from: /history.php/
 ---
 
+# A short history of Fresno Grape Stake Yard
+
 <div class="text-center margin-bottom">
     <a href="http://i.imgur.com/dL1oP.jpg" rel="lightbox"><img
         src="images/thumbs/h1.jpg" alt="Founders" /></a>
