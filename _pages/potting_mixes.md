@@ -3,7 +3,6 @@ layout: products
 title: Potting Mixes
 permalink: /products/potting-mixes
 group: products
-redirect_from: /products.php?id=14/
 ---
 
 <p>

@@ -3,7 +3,6 @@ layout: products
 title: Grape Stakes - Farming
 permalink: /products/grape-stakes-farming
 group: products
-redirect_from: /products.php?id=5/
 ---
 
 <p>Pressure Treated Fir</p>

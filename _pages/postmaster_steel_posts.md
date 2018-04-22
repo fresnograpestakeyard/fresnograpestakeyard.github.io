@@ -5,7 +5,6 @@ permalink: /products/postmaster-steel-posts
 group: products
 custom_js:
   - js/pages/postmaster_steel_posts.js
-redirect_from: /products.php?id=17/
 ---
 
 <p>

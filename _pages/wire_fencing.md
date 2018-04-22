@@ -3,7 +3,6 @@ layout: products
 title: Wire Fencing
 permalink: /products/wire-fencing
 group: products
-redirect_from: /products.php?id=2/
 ---
 
 <p><a href='/images/wirefencing.jpg' rel='lightbox'>

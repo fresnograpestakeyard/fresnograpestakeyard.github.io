@@ -5,7 +5,6 @@ permalink: /products/wood-fencing
 group: products
 custom_js:
   - js/pages/wood_fencing.js
-redirect_from: /products.php?id=1/
 ---
 
 <p>Redwood</p>

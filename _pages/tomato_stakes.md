@@ -5,7 +5,6 @@ permalink: /products/tomato-stakes
 group: products
 custom_js:
   - js/pages/tomato_stakes.js
-redirect_from: /products.php?id=6/
 ---
 
 <p>1x2 Pressure Treated Fir in various lengths</p>

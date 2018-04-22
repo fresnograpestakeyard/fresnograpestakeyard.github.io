@@ -5,7 +5,6 @@ permalink: /products/t-post
 group: products
 custom_js:
   - js/pages/t_post.js
-redirect_from: /products.php?id=9/
 ---
 
 <p>

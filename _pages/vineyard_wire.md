@@ -5,7 +5,6 @@ permalink: /products/vineyard-wire
 group: products
 custom_js:
   - js/pages/vineyard_wire.js
-redirect_from: /products.php?id=8/
 ---
 
 <p>Soft Wire</p>

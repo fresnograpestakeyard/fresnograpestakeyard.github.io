@@ -3,5 +3,7 @@ services:
   fgsy:
     image: starefossen/github-pages
     volumes:
-      - .:/usr/src/app
+      - .:/c/Users/docker-workspace/
     network_mode: "host"
+    working_dir: /c/Users/docker-workspace/
+    command: jekyll serve -d /c/Users/docker-workspace/_site --watch --force_polling -H 0.0.0.0 -P 4000
