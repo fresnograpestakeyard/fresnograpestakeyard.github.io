@@ -3,6 +3,5 @@
 # Dirt
 
 * collect images/assets and consolidate to one directory
-* check w3c html validation
-* check w3c css validation
-* check google insights
+* CI w3c validation using nu validator/validator
+* google insights reports (CI?)
