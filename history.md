@@ -24,7 +24,7 @@ We welcome you to walk through our doors and become a part of our tradition that
 
 We at Fresno Grape Stake Yard pride ourselves on customer service.
 We may be a small family business but we have found our niche and persevered despite the influx of "box stores" and the convenience of Internet shopping.
-It is a tradition that began 80 years ago and has grown stronger with each passing year thanks to our loyal customers.
+It is a tradition that began over 80 years ago and has grown stronger with each passing year thanks to our loyal customers.
 
 In 1936, Avedis and Rose Antranikian started the Elm Avenue Fruit Market, building the business, with its connecting home, literally from the ground up.
 Here they worked and lived with their four children instilling in them the value of honest hard work.
