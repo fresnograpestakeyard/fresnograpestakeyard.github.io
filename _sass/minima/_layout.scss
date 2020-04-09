@@ -6,6 +6,20 @@ li {
   box-shadow: 0px 3px 5px -3px rgba(0, 0, 0, 0.75);
 }
 
+// About page
+
+.table-left {
+  float: left;
+  width: 15em;
+  padding: 0.5em;
+}
+
+.table-right {
+  float: left;
+  width: 20em;
+  padding: 0.5em;
+}
+
 .fgsy-card {
   @extend %mild-shadow;
   background-color: #fff;
