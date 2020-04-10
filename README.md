@@ -1,5 +1,10 @@
 `docker-compose up`
 
+or
+
+`sudo bundle update && sudo bundle exec jekyll serve`
+
+
 # Dirt
 
 * collect images/assets and consolidate to one directory
