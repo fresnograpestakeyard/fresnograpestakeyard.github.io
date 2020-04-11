@@ -11,6 +11,8 @@ Greenhouse Plastic (w/ UVI)
 
 Anti-condensation (Thermax) Greenhouse plastic w/ UVI
 
+Panda (black & white) Plastic
+
 Black Plastic
 
 Strawberry Plastic
