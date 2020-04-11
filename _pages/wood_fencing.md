@@ -24,8 +24,7 @@ custom_js:
 
 <p>Hem Fir</p>
 <ul class='products'>
-    <li>2x4 S4S rails</li>
-    <li>2x4 pressure treated (brown tone)</li>
+    <li>2x4 Rough rails</li>
     <li>4x4 pressure treated (brown tone)</li>
     <li>4x6 pressure treated (brown tone)</li>
     <li>2x12 pressure treated (brown tone)</li>
