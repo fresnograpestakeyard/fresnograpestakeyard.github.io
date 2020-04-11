@@ -35,45 +35,6 @@ custom_js:
 </div>
 
 <p>
-    <span class='clickable' id='show-econo-gate1'>
-        Silverado Economy 5 Rail 1 5/8" Pipe Gate (silver or
-        green)
-    </span>
-</p>
-<div class='onclick-box' id='econo-gate1'>
-    <div class='close clickable'>Close</div>
-    <div class='float-left small'>
-        <ul>
-            <li class='bold'>
-                Silverado Economy Tube Gate
-            </li>
-            <li>Height: 48"</li>
-            <li>Rails: 1 5/8" round tube</li>
-            <li>Latch: 30", 3/16" welded chain</li>
-            <li>Hinges: 5/8" x 12" threaded rod</li>
-            <li>
-                Number of Vertical Rails: One for 8', 10',
-                and 12'; two for 14' and 16'.
-            </li>
-            <li>
-                Finish: Silver TUFF GUARD polyester powder
-                coating
-            </li>
-        </ul>
-    </div>
-    <div class='click-box-thumb'>
-        <a href='/images/silver-econo-gate-1.jpg'
-                rel='lightbox'>
-            <img src='/images/silver-econo-gate-1.jpg'
-                    class='w200'
-                    alt='Silverado Economy 5 Rail 1 5/8 "
-                    Pipe Gate' />
-        </a>
-    </div>
-    <br class='clear' />
-</div>
-
-<p>
     <span class='clickable' id='show-econo-rancher-gate'>
         Silverado Economy Rancher Hog Wire Filled Gate (silver)
     </span>
@@ -182,42 +143,6 @@ custom_js:
             <img src='/images/heavy-duty-stock-gate.jpg'
                     class='w200'
                     alt='Heavy Duty Stock Gate' />
-        </a>
-    </div>
-    <br class='clear' />
-</div>
-
-<p>
-    <span class='clickable' id='show-heavy-rail-pipe-panel'>
-        Green River Heavy Duty Stock/Utility Panel (green)
-    </span>
-</p>
-<div class='onclick-box' id='heavy-rail-pipe-panel'>
-    <div class='close clickable'>Close</div>
-    <div class='float-left small'>
-        <ul>
-            <li class='bold'>
-                Heavy Duty Stock Panel
-            </li>
-            <li>Height: 64"</li>
-            <li>Frame: 1 5/8", 14 Gauge rounded tube</li>
-            <li>
-                Rails: Heavy duty five sided roll-formed
-                tube
-            </li>
-            <li>Connectors: Pin and Loop</li>
-            <li>Latch: Double throw lever latch</li>
-            <li>
-                Finish: TUFF-GUARD evergreen powder coating
-            </li>
-        </ul>
-    </div>
-    <div class='click-box-thumb'>
-        <a href='/images/heavy-duty-utility-panel.jpg'
-                rel='lightbox'>
-            <img src='/images/heavy-duty-utility-panel.jpg'
-                    class='w200'
-                    alt='Heavy Duty Stock Panel' />
         </a>
     </div>
     <br class='clear' />
