@@ -17,8 +17,6 @@ custom_js:
     </a>
 </p>
 
-<p>T-125 (no paint or spade)</p>
-
 <p>T-95 (no paint or spade)</p>
 
 <p>T-95 (green with spade) comes wth 5 clips each</p>
