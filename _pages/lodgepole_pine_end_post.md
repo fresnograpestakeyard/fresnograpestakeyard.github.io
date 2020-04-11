@@ -12,7 +12,7 @@ group: products
 
 <p>Round, Doweled, Pressure Treated</p>
 <ul class='products'>
-    <li>2" to 8" diameters</li>
+    <li>2" to 7" diameters</li>
     <li>6' to 20' lengths</li>
 </ul>
 
