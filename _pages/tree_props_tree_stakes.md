@@ -5,6 +5,10 @@ permalink: /products/tree-props-tree-stakes
 group: products
 ---
 
+<p>2.25" and 2.75" Round Pointed Pressure Treated</p>
+
+<p>Rubber Tree Ties</p>
+
 <p>1x2 Untreated Fir</p>
 
 <p>
@@ -21,5 +25,3 @@ group: products
             class='h200' />
     </a>
 </p>
-
-<p>2" and 2.75" Round Pointed Pressure Treated</p>
