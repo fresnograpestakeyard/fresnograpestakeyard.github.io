@@ -13,7 +13,7 @@ redirect_from:
         Take a look at our "menu" and you will see we "serve" a lot more
         than STAKE!
     </p>
-    <p class="smaller-text">
+    <p class="warning-text">
         <i class="fa fa-exclamation-triangle"></i>
         <span class="bold">WARNING</span>: Drilling, sawing, sanding or
         machining wood products can expose you to wood dust, a substance known

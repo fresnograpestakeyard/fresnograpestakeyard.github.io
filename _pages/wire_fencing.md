@@ -47,6 +47,11 @@ group: products
 
 <p>Fence Stays</p>
 
+<p>Utility Panels</p>
+<ul class='products'>
+    <li>2" x 2" openings
+</ul>
+
 <p>Horse Panels</p>
 <ul class='products'>
     <li>2" x 4" openings</li>
@@ -55,11 +60,6 @@ group: products
 <p>Combination Panels</p>
 <ul class='products'>
     <li>13 liner/graduated openings</li>
-</ul>
-
-<p>Cattle Panels</p>
-<ul class='products'>
-    <li>10 liner/graduated openings</li>
 </ul>
 
 <p>Goat Panels</p>
