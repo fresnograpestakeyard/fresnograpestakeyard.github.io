@@ -49,7 +49,7 @@ group: products
 
 <p>Utility Panels</p>
 <ul class='products'>
-    <li>2" x 2" openings
+    <li>2" x 2" openings</li>
 </ul>
 
 <p>Horse Panels</p>
