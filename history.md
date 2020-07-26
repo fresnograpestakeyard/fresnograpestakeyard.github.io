@@ -39,7 +39,7 @@ It was then decided by family vote to change the name to Fresno Grape Stake Yard
 Avedis passed away in 1973 but Rose continued to run/work Fresno Grape Stake Yard until her passing in 1995.
 In 1978, their sons Harold and Stan bought the business and are still working owners.
 Fresno Grape Stake Yard has grown beyond grape stakes but has sustained without any advertising or twenty-first century technology.
-Today, our business is operated by Harold, his wife Dianne, daughter Andrea, first cousin Jim, and nephew Brian.
+Today, our business is operated by Harold, his wife Dianne, daughter Andrea, first cousin Jim, and great nephew William.
 
 We invite you to come by and say hello, buy a cold drink from the old soda box and a candy from the original candy box, browse around the store, walk the four acres, and become part of a {{ site.time | date: '%Y' | minus: 1936 }} year tradition!
 
