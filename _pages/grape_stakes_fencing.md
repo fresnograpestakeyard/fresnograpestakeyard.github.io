@@ -14,8 +14,8 @@ group: products
                 alt='5/2 Inch Grape Stakes'
                 class='h200' />
     </a>
-    <a href='/images/2inchgrapestakes4.jpg' rel='lightbox'>
-        <img src='/images/2inchgrapestakes4.jpg'
+    <a href='/images/flatend.jpg' rel='lightbox'>
+        <img src='/images/flatend.jpg'
                 alt='2 Inch Grape Stakes'
                 class='h200' />
     </a>
@@ -45,15 +45,15 @@ group: products
             alt='Split Western Red Cedar With Point'
             class='h200' />
 </a>
-<a href='/images/grapestakePalings1.jpg'
+<a href='/images/grapestakePalings1.jpeg'
         rel='lightbox'>
-    <img src='/images/grapestakePalings1.jpg'
+    <img src='/images/grapestakePalings1.jpeg'
             alt='Split Western Red Cedar With Point'
             class='h200' />
 </a>
-<a href='/images/grapestakePalings2.jpg'
+<a href='/images/grapestakePalings2.jpeg'
         rel='lightbox'>
-    <img src='/images/grapestakePalings2.jpg'
+    <img src='/images/grapestakePalings2.jpeg'
             alt='Split Western Red Cedar With Point'
             class='h200' />
 </a>
