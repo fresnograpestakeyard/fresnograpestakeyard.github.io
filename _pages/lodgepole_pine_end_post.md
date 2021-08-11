@@ -15,5 +15,3 @@ group: products
     <li>2" to 7" diameters</li>
     <li>6' to 20' lengths</li>
 </ul>
-
-<p>Untreated post available - special orders only.</p>
