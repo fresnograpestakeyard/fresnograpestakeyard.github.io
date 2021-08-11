@@ -14,11 +14,19 @@ group: products
                 alt='5/2 Inch Grape Stakes'
                 class='h200' />
     </a>
-    <a href='/images/flatend.jpg' rel='lightbox'>
-        <img src='/images/flatend.jpg'
-                alt='2 Inch Grape Stakes'
+    <a href='/images/grapestakePalings1.jpeg'
+        rel='lightbox'>
+        <img src='/images/grapestakePalings1.jpeg'
+                alt='Split Western Red Cedar With Point'
                 class='h200' />
     </a>
+    <a href='/images/grapestakePalings2.jpeg'
+            rel='lightbox'>
+        <img src='/images/grapestakePalings2.jpeg'
+                alt='Split Western Red Cedar With Point'
+                class='h200' />
+    </a>
+    
 </p>
 
 <p>Split Western Red Ceder Palings with small dog-ear</p>
@@ -33,30 +41,18 @@ group: products
             alt='Split Western Red Cedar With Point'
             class='h200' />
 </a>
-<a href='/images/splitWesternRedCedarWithPoint2.jpg'
-        rel='lightbox'>
-    <img src='/images/splitWesternRedCedarWithPoint2.jpg'
-            alt='Split Western Red Cedar With Point'
-            class='h200' />
-</a>
+<a href='/images/flatend.jpg' rel='lightbox'>
+        <img src='/images/flatend.jpg'
+                alt='2 Inch Grape Stakes'
+                class='h200' />
+    </a>
 <a href='/images/splitWesternRedCedarWithPoint3.jpg'
         rel='lightbox'>
     <img src='/images/splitWesternRedCedarWithPoint3.jpg'
             alt='Split Western Red Cedar With Point'
             class='h200' />
 </a>
-<a href='/images/grapestakePalings1.jpeg'
-        rel='lightbox'>
-    <img src='/images/grapestakePalings1.jpeg'
-            alt='Split Western Red Cedar With Point'
-            class='h200' />
-</a>
-<a href='/images/grapestakePalings2.jpeg'
-        rel='lightbox'>
-    <img src='/images/grapestakePalings2.jpeg'
-            alt='Split Western Red Cedar With Point'
-            class='h200' />
-</a>
+
 
 <p>
     2" x 2" Hand Split Western Red Cedar with Point in Various Lengths
