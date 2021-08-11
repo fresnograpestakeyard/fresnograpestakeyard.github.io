@@ -47,5 +47,5 @@ group: products
 </a>
 
 <p>
-    2" x 2" x 6' or 7' Split Western Red Cedar With Point
+    2" x 2" Hand Split Western Red Cedar with Point in Various Lengths
 </p>
