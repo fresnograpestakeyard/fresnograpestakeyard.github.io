@@ -45,6 +45,18 @@ group: products
             alt='Split Western Red Cedar With Point'
             class='h200' />
 </a>
+<a href='/images/grapestakePalings1.jpg'
+        rel='lightbox'>
+    <img src='/images/grapestakePalings1.jpg'
+            alt='Split Western Red Cedar With Point'
+            class='h200' />
+</a>
+<a href='/images/grapestakePalings2.jpg'
+        rel='lightbox'>
+    <img src='/images/grapestakePalings2.jpg'
+            alt='Split Western Red Cedar With Point'
+            class='h200' />
+</a>
 
 <p>
     2" x 2" Hand Split Western Red Cedar with Point in Various Lengths
