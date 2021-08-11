@@ -13,8 +13,6 @@ Bamboo stakes - special orders only
 
 3/8" Lath
 
-Plywood
-
 Electrical Fence Wire
 
 Fencing Tools
@@ -22,8 +20,6 @@ Fencing Tools
 Gardening Tools
 
 Tarps
-
-Pre-Cut Strapping
 
 Kindling and Firewood
 
