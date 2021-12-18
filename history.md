@@ -37,7 +37,6 @@ By the 1960s the Elm Avenue Fruit Market had outgrown its name.
 It was then decided by family vote to change the name to Fresno Grape Stake Yard.
 
 Avedis passed away in 1973 but Rose continued to run/work Fresno Grape Stake Yard until her passing in 1995.
-In 1978, their sons Harold and Stan bought the business and are still working owners.
 Fresno Grape Stake Yard has grown beyond grape stakes but has sustained without any advertising or twenty-first century technology.
 Today, our business is operated by Harold, his wife Dianne, daughter Andrea, first cousin Jim, and great nephew William.
 
@@ -48,4 +47,7 @@ We invite you to come by and say hello, buy a cold drink from the old soda box a
         src="images/thumbs/h4.jpg" alt="Harold and Stan today" /></a>
     <a href="http://i.imgur.com/B6Gkm.jpg" rel="lightbox"><img
         src="images/thumbs/h5.jpg" alt="The Grape Stake Yard today" /></a>
+    <a href="http://i.imgur.com/tFzVc.jpg" rel="lightbox">
+      <img src="assets/thumbs/harold-jim.jpg" alt="Jim, Harold, and Stan" />
+    </a>
 </div>
