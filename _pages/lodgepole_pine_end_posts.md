@@ -1,8 +1,9 @@
 ---
 layout: products
-title: Lodgepole Pine/End Post
-permalink: /products/lodgepole-pine-end-post
+title: Lodgepole Pine/End Posts
+permalink: /products/lodgepole-pine-end-posts
 group: products
+redirect_from: /products/lodgepole-pine-end-post
 ---
 
 <p><a href='/images/2007fgsylodgepolls.jpg' rel='lightbox'>

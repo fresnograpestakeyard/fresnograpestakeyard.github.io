@@ -1,10 +1,11 @@
 ---
 layout: products
-title: T-Post
-permalink: /products/t-post
+title: T-Posts
+permalink: /products/t-posts
 group: products
 custom_js:
   - js/pages/t_post.js
+redirect_from: /products/t-post
 ---
 
 <p>

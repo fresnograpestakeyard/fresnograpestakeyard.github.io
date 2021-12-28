@@ -209,7 +209,7 @@ ul.products > li::before {
   padding: 1em;
   float: left;
   width: 680px;
-  min-height: 454px;
+  min-height: 486px;
 
   @include media-query($on-palm) {
     clear: both;
