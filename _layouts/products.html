@@ -6,7 +6,7 @@ layout: page
 
 <div class="text-center product-menu">
     <ul>
-        <li><input id="searchbox" type="text" placeholder="Search by keyword" /></li>
+        <li class="hidden"><input id="searchbox" type="text" placeholder="Search by keyword" /></li>
 
 {% for node in site.pages %}
     {% if node.group == 'products' %}
@@ -45,6 +45,10 @@ layout: page
 </script>
 
 <script>
+    $(document).ready(() => {
+        $('li.hidden').removeClass("hidden");
+    });
+
     $('.product-menu').click(function() {
         $('.product-menu ul').css('display', 'block');
     });

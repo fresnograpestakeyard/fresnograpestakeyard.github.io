@@ -6,6 +6,10 @@ li {
   box-shadow: 0px 3px 5px -3px rgba(0, 0, 0, 0.75);
 }
 
+.hidden {
+  display: none;
+}
+
 // About page
 
 .table {
@@ -274,26 +278,6 @@ ul.products > li::before {
 
   @include media-query($on-palm) {
     font-size: 0.8em;
-
-    // .trigger {
-      // clear: both;
-      // display: none;
-    // }
-
-    // &:hover .trigger {
-      // display: block;
-      // padding-bottom: 5px;
-    // }
-
-    // .page-link {
-      // display: block;
-      // padding: 5px 10px;
-
-      // &:not(:last-child) {
-      //   margin-right: 0;
-      // }
-      // margin-left: 20px;
-    // }
   }
 }
 
