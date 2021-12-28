@@ -6,68 +6,18 @@ layout: page
 
 <div class="text-center product-menu">
     <ul>
+        <li><input id="searchbox" type="text" placeholder="Search by keyword" /></li>
 
 {% for node in site.pages %}
     {% if node.group == 'products' %}
         {% if page.url == node.url %}
-            <li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
+            <li class="active"><a href="{{node.permalink}}" class="active">{{node.title}}</a></li>
         {% else %}
-            <li><a href="{{node.url}}">{{node.title}}</a></li>
+            <li><a href="{{node.permalink}}">{{node.title}}</a></li>
         {% endif %}
     {% endif %}
 {% endfor %}
 
-        <!-- <li id="category-15">
-            <a href="/products/ag-supplies">Ag Supplies</a>
-        </li>
-        <li id="category-12">
-            <a href="/products/corral-fencing">Corral Fencing</a>
-        </li>
-        <li id="category-5">
-            <a href="/products/grape-stakes-farming">Grape Stakes - Farming</a>
-        </li>
-        <li id="category-4">
-            <a href="/products/grape-stakes-fencing">Grape Stakes - Fencing</a>
-        </li>
-        <li id="category-10">
-            <a href="/products/lodgepole-pine-end-post">Lodgepole
-                Pine/End Post</a>
-        </li>
-        <li id="category-16">
-            <a href="/products/plastic-sheeting">Plastic Sheeting</a>
-        </li>
-        <li id="category-17">
-            <a href="/products/postmaster-steel-posts">PostMaster
-                Steel Posts</a>
-        </li>
-        <li id="category-14">
-            <a href="/products/potting-mixes">Potting Mixes</a>
-        </li>
-        <li id="category-13">
-            <a href="/products/ranch-gates">Ranch Gates</a>
-        </li>
-        <li id="category-3">
-            <a href="/products/split-rail-cedar-fencing">Split Rail Cedar
-                Fencing</a>
-        </li>
-        <li id="category-9"><a href="/products/t-post">T-Post</a></li>
-        <li id="category-6">
-            <a href="/products/tomato-stakes">Tomato Stakes</a>
-        </li>
-        <li id="category-7">
-            <a href="/products/tree-props-tree-stakes">Tree Props/Tree
-                Stakes</a>
-        </li>
-        <li id="category-8">
-            <a href="/products/vineyard-wire">Vineyard Wire (100LB Rolls)</a>
-        </li>
-        <li id="category-2">
-            <a href="/products/wire-fencing">Wire Fencing</a>
-        </li>
-        <li id="category-1">
-            <a href="/products/wood-fencing">Wood Fencing</a>
-        </li>
-        <li id="category-0"><a href="/products/misc-items">Misc. Items</a></li> -->
     </ul>
 </div>
 
@@ -79,12 +29,35 @@ layout: page
 
 {% for js in page.custom_js %}
 <script>
-   {% include {{ js }} %}
+    {% include {{ js }} %}
 </script>
 {% endfor %}
+
+<script type="module">
+    import { search, default as init } from '/assets/tinysearch_engine.js';
+    window.search = search;
+
+    async function run() {
+      await init('/assets/tinysearch_engine_bg.wasm');
+    }
+
+    run();
+</script>
 
 <script>
     $('.product-menu').click(function() {
         $('.product-menu ul').css('display', 'block');
+    });
+
+    $('#searchbox').keyup((event) => {
+        const text = $(event.currentTarget).val();
+        const matching_uris = search(text, 99).map(([_title, url]) => url);
+        console.log(`${text} ${matching_uris}`);
+
+        $('.product-menu a').each((_, el) => {
+            const uri = $(el).attr('href');
+            $(el).toggleClass("highlight", matching_uris.includes(uri));
+            console.log(`${matching_uris} contains ${uri}? ${matching_uris.includes(uri)}`);
+        });
     });
 </script>
