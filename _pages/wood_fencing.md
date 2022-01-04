@@ -16,12 +16,6 @@ custom_js:
     <li>1x12 Random Lengths</li>
 </ul>
 
-<p>Western Red Cedar</p>
-<ul class='products'>
-    <li>1"x8"x5' Pickets</li>
-    <li>1"x8"x6' Pickets</li>
-</ul>
-
 <p>Hem Fir</p>
 <ul class='products'>
     <li>2x4 Rough rails</li>
