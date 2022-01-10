@@ -49,10 +49,6 @@ layout: page
         $('li.hidden').removeClass("hidden");
     });
 
-    $('.product-menu').click(function() {
-        $('.product-menu ul').css('display', 'block');
-    });
-
     $('#searchbox').keyup((event) => {
         const text = $(event.currentTarget).val();
         const matching_uris = search(text, 99).map(([_title, url]) => url);
@@ -61,7 +57,6 @@ layout: page
         $('.product-menu a').each((_, el) => {
             const uri = $(el).attr('href');
             $(el).toggleClass("highlight", matching_uris.includes(uri));
-            console.log(`${matching_uris} contains ${uri}? ${matching_uris.includes(uri)}`);
         });
     });
 </script>
