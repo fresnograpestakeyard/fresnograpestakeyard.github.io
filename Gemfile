@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby RUBY_VERSION
+ruby "3.1.2"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -7,7 +7,7 @@ ruby RUBY_VERSION
 #
 #     bundle exec jekyll serve
 #
-gem "github-pages", "226"
+gem "github-pages", "227"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.5.1"
@@ -24,3 +24,5 @@ gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
 end
+
+gem "webrick", "~> 1.7"
