@@ -35,21 +35,21 @@ group: products
     <li>5/8" x 2.5" x 6' premium</li>
     <li>5/8" x 3" x 6' premium</li>
 </ul>
-<a href='/images/splitWesternRedCedarWithPoint1.jpg'
+<a href='/images/fencing-2022-1.jpeg'
         rel='lightbox'>
-    <img src='/images/splitWesternRedCedarWithPoint1.jpg'
-            alt='Split Western Red Cedar With Point'
+    <img src='/images/fencing-2022-1.jpeg'
+            alt='Fencing'
             class='h200' />
 </a>
-<a href='/images/flatend.jpg' rel='lightbox'>
-        <img src='/images/flatend.jpg'
-                alt='2 Inch Grape Stakes'
+<a href='/images/fencing-2022-2.jpeg' rel='lightbox'>
+        <img src='/images/fencing-2022-2.jpeg'
+                alt='Fencing'
                 class='h200' />
     </a>
-<a href='/images/splitWesternRedCedarWithPoint3.jpg'
+<a href='/images/fencing-2022-3.jpeg'
         rel='lightbox'>
-    <img src='/images/splitWesternRedCedarWithPoint3.jpg'
-            alt='Split Western Red Cedar With Point'
+    <img src='/images/fencing-2022-3.jpeg'
+            alt='Fencing'
             class='h200' />
 </a>
 
