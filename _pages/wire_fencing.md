@@ -65,7 +65,7 @@ group: products
 <p>Tools</p>
 <ul class='products'>
     <li>12GA Galvanized Steel Ties</li>
-    <li>Barbed Fence Staples</li>
+    <li>Barbed Fence Staples -- <a href="https://youtube.com/watch?v=bm6LGlAyg1k" target="_blank">how to install properly (youtube.com)</a></li>
     <li>Fence Pliers</li>
     <li>Wire Cutters</li>
     <li>Hog Rings and Hog Ring Pliers</li>
