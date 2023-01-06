@@ -47,11 +47,6 @@ group: products
 
 <p>Fence Stays</p>
 
-<p>Utility Panels</p>
-<ul class='products'>
-    <li>2" x 2" openings</li>
-</ul>
-
 <p>Horse Panels</p>
 <ul class='products'>
     <li>2" x 4" openings</li>
