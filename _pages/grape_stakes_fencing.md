@@ -56,5 +56,5 @@ group: products
 
 
 <p>
-    2" x 2" Hand Split Western Red Cedar with Point in Various Lengths
+    2" x 2" Hand Split Western Red Cedar Grape Stakes in Various Lengths
 </p>

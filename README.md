@@ -1,12 +1,11 @@
 # Ops
 
 ```
-brew install rbenv ruby-build
-eval "$(rbenv init - bash)"
-rbenv install 3.2.2
-rbenv local 3.2.2
+sudo apt install rvm
+rvm install 3.2.2
+rvm use 3.2.2
 gem install bundler
-bundle update && bundle exec jekyll serve
+bundle update && bundle exec jekyll serve --no-watch
 ```
 
 
