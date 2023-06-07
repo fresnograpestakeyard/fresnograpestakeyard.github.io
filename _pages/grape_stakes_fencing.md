@@ -29,7 +29,8 @@ group: products
     
 </p>
 
-<p>Split Western Red Ceder Palings with small dog-ear</p>
+<p>Split Western Red Cedar Palings with small dog-ear</p>
+<p class="warning-text">Out of stock</p>
 <ul class='products'>
     <li>5/8" x 2" x 6' rustic</li>
     <li>5/8" x 2.5" x 6' premium</li>
