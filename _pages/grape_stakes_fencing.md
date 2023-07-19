@@ -9,24 +9,31 @@ group: products
     Note: These are a split product so each stake will differ
     in size and shape.
     <br />
-    <a href='/images/2_5inchgrapestakes4.jpg' rel='lightbox'>
+    <div class="overlay-container">
         <img src='/images/2_5inchgrapestakes4.jpg'
                 alt='5/2 Inch Grape Stakes'
                 class='h200' />
-    </a>
-    <a href='/images/grapestakePalings1.jpeg'
-        rel='lightbox'>
+        <div class="overlay">
+            <p>Sold out</p>
+        </div>
+    </div>
+    <div class="overlay-container">
         <img src='/images/grapestakePalings1.jpeg'
                 alt='Split Western Red Cedar With Point'
                 class='h200' />
-    </a>
-    <a href='/images/grapestakePalings2.jpeg'
-            rel='lightbox'>
+        <div class="overlay">
+            <p>Sold out</p>
+        </div>
+    </div>
+    <div class="overlay-container">
         <img src='/images/grapestakePalings2.jpeg'
                 alt='Split Western Red Cedar With Point'
                 class='h200' />
-    </a>
-    
+        <div class="overlay">
+            <p>Sold out</p>
+        </div>
+    </div>
+
 </p>
 
 <p>Split Western Red Cedar Palings with small dog-ear</p>
