@@ -20,13 +20,20 @@ redirect_from: /products/t-post
 
 <p>T-95 (no paint or spade)</p>
 
-<p>T-95 (green with spade) comes wth 5 clips each</p>
+<a href='/images/2023-11-17-tpost.jpeg' rel='lightbox'>
+    <img src='/images/2023-11-17-tpost.jpeg' alt='t post' class='h200' />
+</a>
 
 <p>Tools</p>
 <ul class='products'>
     <li>
         <a href='/images/stake_pounder.jpg' rel='lightbox'>
             T-Post Pounder - 2.5", 3", or 4" diameters
+        </a>
+    </li>
+    <li>
+        <a href='/images/2023-11-17-tclips.jpeg' rel='lightbox'>
+            T-Clips
         </a>
     </li>
     <li>

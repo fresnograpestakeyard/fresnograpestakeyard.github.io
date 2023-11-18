@@ -11,9 +11,9 @@ group: products
     <li>1 3/4" square in various lengths</li>
 </ul>
 
-<p>Split Western Red Cedar</p>
+<p>Hand Split Western Red Cedar</p>
 <ul class='products'>
-    <li>6' or 7'</li>
+    <li>2" x 2" in various lengths </li>
 </ul>
 
 <p>16 Gauge Galvanized Metal Stake</p>
