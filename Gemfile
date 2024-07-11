@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby "3.2.2"
+ruby "3.2.4"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -7,12 +7,10 @@ ruby "3.2.2"
 #
 #     bundle exec jekyll serve
 #
-gem "github-pages", "228"
+gem "github-pages", "229"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.5.1"
-
-gem "kramdown", "2.3.2"
 
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 

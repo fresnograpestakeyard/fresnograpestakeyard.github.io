@@ -8,6 +8,16 @@ gem install bundler
 bundle update && bundle exec jekyll serve --no-watch
 ```
 
+## macos
+
+```
+brew install chruby
+brew install ruby-install
+chruby 3.2.4
+gem install bundler
+bundle update && bundle exec jekyll serve
+```
+
 
 # Dirt
 
