@@ -8,6 +8,7 @@ redirect_from:
 
 <div class="text-center">
     <p>Not Your Average STAKE House!</p>
+    <img src="/images/products-header.png" alt="The antranikians" />
     <p>Our name can be misleading.</p>
     <p>
         Take a look at our "menu" and you will see we "serve" a lot more
