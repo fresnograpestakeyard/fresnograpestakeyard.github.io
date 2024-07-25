@@ -132,6 +132,58 @@ li {
   position: relative;
 }
 
+.products-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  max-width: 928px; // Adjust this value if needed to match your desired total width
+}
+
+.product-menu {
+  font-size: 15px;
+  line-height: 120%;
+  background-color: #138A37;
+  padding: 0.5em 0;
+  width: 228px;
+  font-family: sans-serif;
+  flex: 0 0 auto;
+  text-align: center;
+
+  @include media-query($on-palm) {
+    flex-basis: 100%;
+    border-top-left-radius: 0.5em;
+    border-top-right-radius: 0.5em;
+
+    &:before {
+      content: "Menu";
+      color: #ececec;
+      font-weight: bold;
+    }
+
+    border-bottom: 1px solid rgb(15, 107, 45);
+  }
+
+  .highlight {
+    background-color: yellow;
+  }
+}
+
+.leftprods {
+  text-align: left;
+  background-color: #fff;
+  padding: 1em;
+  flex: 1;
+  min-height: 486px;
+
+  @include media-query($on-palm) {
+    flex-basis: 100%;
+    min-height: 200px;
+    border-bottom-left-radius: 0.5em;
+    border-bottom-right-radius: 0.5em;
+    box-shadow: 0px 2px 2px -1px rgba(0, 0, 0, 0.5);
+  }
+}
+
 ul.products {
   margin: -10px 0;
 }
@@ -151,35 +203,6 @@ ul.products > li::before {
 
 .text-center {
   text-align: center;
-}
-
-.product-menu {
-  font-size: 15px;
-  line-height: 120%;
-  background-color: #138A37;
-  padding: 0.5em 0;
-  width: 228px;
-  margin: 0 auto;
-  font-family: sans-serif;
-  float: left;
-
-  @include media-query($on-palm) {
-    border-top-left-radius: 0.5em;
-    border-top-right-radius: 0.5em;
-
-    &:before {
-      content: "Menu";
-      color: #ececec;
-      font-weight: bold;
-    }
-
-    border-bottom: 1px solid rgb(15, 107, 45);
-    width: 100%;
-  }
-
-  .highlight {
-    background-color: yellow;
-  }
 }
 
 %float-right {
@@ -202,26 +225,6 @@ ul.products > li::before {
 
 .float-left {
   float: left;
-}
-
-.leftprods {
-  text-align: left;
-  background-color: #fff;
-  padding: 1em;
-  float: left;
-  width: 680px;
-  min-height: 486px;
-
-  @include media-query($on-palm) {
-    clear: both;
-    float: none;
-    width: auto;
-    display: block;
-    min-height: 200px;
-    border-bottom-left-radius: 0.5em;
-    border-bottom-right-radius: 0.5em;
-    box-shadow: 0px 2px 2px -1px rgba(0, 0, 0, 0.5);
-  }
 }
 
 .clear {
