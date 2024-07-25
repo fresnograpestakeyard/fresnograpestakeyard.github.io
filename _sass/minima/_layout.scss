@@ -32,7 +32,6 @@ li {
 }
 
 .fgsy-card {
-  @extend %mild-shadow;
   background-color: #fff;
   padding: 0.5em;
   margin-bottom: 0.5em;
@@ -84,10 +83,6 @@ li {
 
 .margin-bottom {
   margin-bottom: 1em;
-}
-
-.anti-margin-bottom {
-  margin-bottom: -1em;
 }
 
 .fill-w {
@@ -148,6 +143,10 @@ ul.products > li {
 ul.products > li::before {
   padding-left: 1em;
   content: "\00BB \0020";
+}
+
+.home {
+  padding: 0 0 $spacing-unit;
 }
 
 .text-center {
@@ -289,7 +288,7 @@ ul.products > li::before {
  * Site footer
  */
 .site-footer {
-  padding:   $spacing-unit 0;
+  padding:   2*$spacing-unit 0;
   font-size: 0.7em;
   color:     #555;
 }
@@ -360,7 +359,6 @@ ul.products > li::before {
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
   background-color: #C9D5C5;
   line-height: 160%;
 }

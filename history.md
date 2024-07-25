@@ -43,7 +43,7 @@ bonus nephew Rodney.
 
 We invite you to come by and say hello, buy a cold drink from the old soda box and a candy from the original candy box, browse around the store, walk the four acres, and become part of a {{ site.time | date: '%Y' | minus: 1936 }} year tradition!
 
-<div class="text-center anti-margin-bottom">
+<div class="text-center margin-bottom">
     <a href="http://i.imgur.com/iVlb0.jpg" rel="lightbox"><img
         src="images/thumbs/h4.jpg" alt="Harold and Stan today" /></a>
     <a href="http://i.imgur.com/B6Gkm.jpg" rel="lightbox"><img
