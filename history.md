@@ -3,6 +3,8 @@ layout: page
 title: History
 permalink: /history
 redirect_from: /history.php/
+group: main
+order: 2
 ---
 
 # A short history of Fresno Grape Stake Yard

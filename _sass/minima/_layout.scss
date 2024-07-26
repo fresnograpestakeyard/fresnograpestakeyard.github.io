@@ -271,6 +271,14 @@ ul.products > li::before {
   line-height: 56px;
   font-size:    1.5em;
 
+  a {
+    padding: 0.5em;
+  }
+
+  .active {
+    color: #999;
+  }
+
   .page-link {
     color: #eee;
 
@@ -284,7 +292,6 @@ ul.products > li::before {
     font-size: 0.8em;
   }
 }
-
 
 
 /**

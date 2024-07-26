@@ -4,6 +4,8 @@ title: Products
 permalink: /products/
 redirect_from:
   - /products.php/
+group: main
+order: 3
 ---
 
 <div class="text-center">
