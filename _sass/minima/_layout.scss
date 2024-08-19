@@ -35,6 +35,12 @@ li {
   background-color: #fff;
   padding: 0.5em;
   margin-bottom: 0.5em;
+
+  img {
+    width: 716;
+    height: 321;
+    aspect-ratio: 716 / 321;
+  }
 }
 
 .ffa-advert {
@@ -151,8 +157,6 @@ li {
 
   @include media-query($on-palm) {
     flex-basis: 100%;
-    border-top-left-radius: 0.5em;
-    border-top-right-radius: 0.5em;
 
     &:before {
       content: "Menu";
@@ -178,9 +182,6 @@ li {
   @include media-query($on-palm) {
     flex-basis: 100%;
     min-height: 200px;
-    border-bottom-left-radius: 0.5em;
-    border-bottom-right-radius: 0.5em;
-    box-shadow: 0px 2px 2px -1px rgba(0, 0, 0, 0.5);
   }
 }
 
@@ -268,11 +269,12 @@ ul.products > li::before {
 }
 
 .site-nav {
-  line-height: 56px;
+  line-height: 3.5rem;
   font-size:    1.5em;
 
   a {
-    padding: 0.5em;
+    padding: 0 0.5em;
+    display: inline-block;
   }
 
   .active {
@@ -441,6 +443,12 @@ ul.products > li::before {
     @include media-query($on-laptop) {
       font-size: 18px;
     }
+  }
+}
+
+.outreach-content {
+  @include media-query($on-palm) {
+    margin: 0 1rem;
   }
 }
 

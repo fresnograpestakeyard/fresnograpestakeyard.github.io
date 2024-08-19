@@ -5,7 +5,7 @@ sudo apt install rvm
 rvm install 3.2.4
 rvm use 3.2.4
 gem install bundler
-bundle update && bundle exec jekyll serve --no-watch
+bundle update && bundle exec jekyll serve --force_polling --livereload
 ```
 
 ## macos
