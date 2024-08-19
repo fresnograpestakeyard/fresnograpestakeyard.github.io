@@ -43,6 +43,14 @@ li {
   }
 }
 
+.map-card {
+  img {
+    width: 900;
+    height: 350;
+    aspect-ratio: 900 / 350;
+  }
+}
+
 .ffa-advert {
   @extend %mild-shadow;
   margin-bottom: 0.5em;
@@ -447,6 +455,12 @@ ul.products > li::before {
 }
 
 .outreach-content {
+  @include media-query($on-palm) {
+    margin: 0 1rem;
+  }
+}
+
+.history-content {
   @include media-query($on-palm) {
     margin: 0 1rem;
   }

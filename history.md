@@ -1,22 +1,11 @@
 ---
-layout: page
+layout: history
 title: History
 permalink: /history
 redirect_from: /history.php/
 group: main
 order: 2
 ---
-
-# A short history of Fresno Grape Stake Yard
-
-<div class="text-center margin-bottom">
-    <a href="http://i.imgur.com/dL1oP.jpg" rel="lightbox"><img
-        src="images/thumbs/h1.jpg" alt="Founders" /></a>
-    <a href="http://i.imgur.com/wyx50.jpg" rel="lightbox"><img
-        src="images/thumbs/h2.jpg" alt="Harold as a young boy" /></a>
-    <a href="http://i.imgur.com/btjJ5.jpg" rel="lightbox"><img
-        src="images/thumbs/h3.jpg" alt="Old school" /></a>
-</div>
 
 It's been said family businesses are the backbone of America.
 If it wasn't for the Mom and Pop stores, we would just be another number in a long line of people buying in bulk, receiving little to no service, and being treated more as a "paper or plastic" or "credit or debit" than a valued customer.
@@ -44,13 +33,3 @@ Today, our business is operated by Harold, his wife Dianne, daughter Andrea, fir
 bonus nephew Rodney.
 
 We invite you to come by and say hello, buy a cold drink from the old soda box and a candy from the original candy box, browse around the store, walk the four acres, and become part of a {{ site.time | date: '%Y' | minus: 1936 }} year tradition!
-
-<div class="text-center margin-bottom">
-    <a href="http://i.imgur.com/iVlb0.jpg" rel="lightbox"><img
-        src="images/thumbs/h4.jpg" alt="Harold and Stan today" /></a>
-    <a href="http://i.imgur.com/B6Gkm.jpg" rel="lightbox"><img
-        src="images/thumbs/h5.jpg" alt="The Grape Stake Yard today" /></a>
-    <a href="http://i.imgur.com/tFzVc.jpg" rel="lightbox">
-      <img src="assets/thumbs/harold-jim.jpg" alt="Jim, Harold, and Stan" />
-    </a>
-</div>
