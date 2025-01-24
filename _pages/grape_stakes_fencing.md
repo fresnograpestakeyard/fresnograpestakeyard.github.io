@@ -17,6 +17,10 @@ Example of a lightbox image with an aligned overlay
     </a>
 </div> -->
 
+<p>
+    2" x 2" Hand Split Western Red Cedar Grape Stakes in Various Lengths
+</p>
+
 <a href='/images/fencing-2022-1.jpeg'
         rel='lightbox'>
     <img src='/images/fencing-2022-1.jpeg'
@@ -35,11 +39,9 @@ Example of a lightbox image with an aligned overlay
             class='h200' />
 </a>
 
-<p>
-    2" x 2" Hand Split Western Red Cedar Grape Stakes in Various Lengths
-</p>
-
 <!-- -->
+
+<p>Hand Split Western Red Cedar Palings with small dog-ear</p>
 
 <p>
     <a href="/images/2_5inchgrapestakes4.jpg" rel="lightbox">
@@ -58,7 +60,5 @@ Example of a lightbox image with an aligned overlay
                 class='h200' />
     </a>
 </p>
-
-<p>Hand Split Western Red Cedar Palings with small dog-ear</p>
 
 <p class="bold-green-text">Note: Hand Split products will vary in size and shape</p>
