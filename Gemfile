@@ -7,7 +7,7 @@ ruby "3.2.4"
 #
 #     bundle exec jekyll serve
 #
-gem "github-pages", "229"
+gem "github-pages", "230"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.5.1"
