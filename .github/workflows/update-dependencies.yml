@@ -17,6 +17,12 @@ jobs:
         with:
           ref: ${{ github.event.inputs.branch }}
 
+      - name: Check if branch is master
+        if: ${{ github.event.inputs.branch == 'master' }}
+        run: |
+          echo "Cannot run on master branch"
+          exit 1
+
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
