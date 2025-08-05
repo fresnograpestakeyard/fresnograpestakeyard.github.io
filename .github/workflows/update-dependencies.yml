@@ -1,0 +1,28 @@
+name: "Update Ruby Dependencies"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update-gems:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2.4'
+          bundler-cache: true
+
+      - name: Update all dependencies
+        run: bundle update
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update ruby dependencies"
+          file_pattern: Gemfile.lock
