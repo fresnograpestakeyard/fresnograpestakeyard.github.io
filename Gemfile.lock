@@ -272,7 +272,7 @@ GEM
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.8.0)
     uri (1.0.3)
-    webrick (1.9.1)
+    webrick (1.9.2)
 
 PLATFORMS
   ruby
@@ -282,7 +282,7 @@ DEPENDENCIES
   github-pages (= 232)
   jekyll-feed (~> 0.6)
   minima (~> 2.5.1)
-  webrick (~> 1.7)
+  webrick (~> 1.9)
 
 RUBY VERSION
    ruby 3.2.4p170
