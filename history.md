@@ -15,7 +15,7 @@ We welcome you to walk through our doors and become a part of our tradition that
 
 We at Fresno Grape Stake Yard pride ourselves on customer service.
 We may be a small family business but we have found our niche and persevered despite the influx of "box stores" and the convenience of Internet shopping.
-It is a tradition that began over 80 years ago and has grown stronger with each passing year thanks to our loyal customers.
+It is a tradition that began over 90 years ago and has grown stronger with each passing year thanks to our loyal customers.
 
 In 1936, Avedis and Rose Antranikian started the Elm Avenue Fruit Market, building the business, with its connecting home, literally from the ground up.
 Here they worked and lived with their four children instilling in them the value of honest hard work.
@@ -27,9 +27,9 @@ Over the next twenty years Avedis and Rose gradually moved away from the general
 By the 1960s the Elm Avenue Fruit Market had outgrown its name.
 It was then decided by family vote to change the name to Fresno Grape Stake Yard.
 
-Avedis passed away in 1973 but Rose continued to run/work Fresno Grape Stake Yard until her passing in 1995.
-Fresno Grape Stake Yard has grown beyond grape stakes but has sustained without any advertising or twenty-first century technology.
-Today, our business is operated by Harold, his wife Dianne, daughter Andrea, first cousin Jim, great nephew William and
-bonus nephew Rodney.
+Avedis passed away in 1973, but Rose continued to work until her passing in 1995.
+Their sons, Harold and Stan, bought the business from their mom in 1977, remaining partners until Stan retired in 2013.
+Harold continued to grow and run the business until his passing in October 2024.
+Today, Fresno Grape Stake Yard is operated by Harold’s wife Dianne, daughter Andrea, cousin Jim, and Stan’s grandson William.
 
 We invite you to come by and say hello, buy a cold drink from the old soda box and a candy from the original candy box, browse around the store, walk the four acres, and become part of a {{ site.time | date: '%Y' | minus: 1936 }} year tradition!
