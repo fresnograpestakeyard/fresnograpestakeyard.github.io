@@ -5,7 +5,7 @@ permalink: /products/tree-props-tree-stakes
 group: products
 ---
 
-<p>2.25" and 2.75" Round Pointed Pressure Treated</p>
+<p>2.25" Round Pointed Pressure Treated</p>
 
 <p>Rubber Tree Ties</p>
 

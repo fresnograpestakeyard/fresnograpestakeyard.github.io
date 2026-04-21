@@ -14,9 +14,9 @@ group: products
 
 <p>Posts and Rails</p>
 <ul class='products'>
-    <li>6', 6.5', 8' No Hole Posts</li>
-    <li>5'4" 2-Hole Post</li>
-    <li>6.5' 3-Hole Post</li>
+    <li>6.5', 8', 10' No Hole Posts</li>
+    <li>5'4" 2-Hole Post (lines, corners, ends)</li>
+    <li>6.5' 3-Hole Post (lines)</li>
     <li>8' rails</li>
     <li>10' rails</li>
 </ul>

@@ -82,8 +82,8 @@ custom_js:
 
 <p>60LB bags Ready Mix Concrete</p>
 
-<p>Galvanized Nails and Screws by the pound or case</p>
+<p>Galvanized Nails by the pound or case</p>
+
+<p>Exterior Coated Screws by the pound or case</p>
 
 <p>Gate Hardware</p>
-
-<p>Wood Preservative</p>
