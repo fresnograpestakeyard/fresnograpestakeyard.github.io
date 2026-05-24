@@ -5,10 +5,6 @@ permalink: /products/wire-fencing
 group: products
 ---
 
-<p><a href='/images/wirefencing.jpg' rel='lightbox'>
-    <img src='/images/wirefencing.jpg' alt='Wire Fencing'
-            class='h200' /></a>
-</p>
 
 <p>Welded Wire:</p>
 <ul class='products'>
@@ -21,8 +17,15 @@ group: products
     <li>Non-Climb Horse Wire</li>
     <li>Field Fencing/Hog Wire</li>
     <li>Deer and Rabbit Fence</li>
-    <li>Aviary Netting</li>
     <li>Goat Wire</li>
+    <li>RangeMaster by Deacero</li>
+</ul>
+
+<p>Aviary Netting:</p>
+<ul class='products'>
+    <li>1/2" openings</li>
+    <li>2', 3', 4' and 6'</li>
+    <li>100' lengths</li>
 </ul>
 
 <p>Chicken Wire:</p>
