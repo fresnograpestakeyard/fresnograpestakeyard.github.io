@@ -32,7 +32,7 @@ group: products
 <ul class='products'>
     <li>1" openings</li>
     <li>2' to 6' heights</li>
-    <li>50' and 100' lengths</li>
+    <li>50' and 150' lengths</li>
 </ul>
 
 <p>Barbed Wire:</p>
