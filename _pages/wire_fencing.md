@@ -12,13 +12,12 @@ group: products
     <li>various gauges and openings</li>
 </ul>
 
-<p>Woven Wire:</p>
+<p>Woven Wire: RangeMaster by Deacero</p>
 <ul class='products'>
     <li>Non-Climb Horse Wire</li>
     <li>Field Fencing/Hog Wire</li>
     <li>Deer and Rabbit Fence</li>
     <li>Goat Wire</li>
-    <li>RangeMaster by Deacero</li>
 </ul>
 
 <p>Aviary Netting:</p>
